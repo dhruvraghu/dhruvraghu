@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhruvraghu
-- 👀 I’m interested in creating website with wordpress 
-- 🌱 I’m currently in 10th grade
+- 👀 I’m interested in creating website with wordpress and PHP
+- 🌱 I’m currently in 12th grade
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at dhruvraghuwanshi821@gmail.com
 
